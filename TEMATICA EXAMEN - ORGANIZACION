@@ -1,0 +1,58 @@
+LISTA DE TEMAS PARA EXAMEN - ORGANIZACION ESTUDIO
+
+1 - ANALISIS DE COMPONENTES PRINCIPALES : Seccion 6.3 dentro de Linear Model Selection libro Springer & Seccion 12.2 PCA in unsupervised learning
+  1.1 Que es PCA? 
+  1.2 Cuales son los pasos de PCA? Es importante estandarizar y centrar?
+  1.3 Como se elije K?
+      1.3.1 Metodo del Codo
+  1.4 Teorema de la esfera de la unidad
+  1.5 Como se lee un BIPLOT? Angulos, flechas y puntos en el espacio
+  1.6 Grafico del porcentaje de la varianza explicada, grafico de varianza explicada acumulada, tabla de coeficientes (peso de las variables en cada componente)
+
+2 - CLUSTERING - ANALISIS NO SUPERVISADO: Seccion 12.4 dentro de Unsupervised Learning libro Springer
+  2.1 KMEANS
+  2.2 PAM (partitions around mediods) - PUEDE USAR DISTANCIA DE MANHATTAN O DISTANIA EUCLIDIANA
+  2.3 DENDOGRAMAS
+      2.3.1 FUNCION HCLUST: distintas medidas de disimilaridad - complete, single, average, centroid y WARD
+      2.3.2 COEFICIENTE DE COHPENETIC (de acuerdo con la distancia que usan los dendogramas se ve o no si hay correlacion entre distancia original de los datos)
+  2.4 COMO ELEGIR LA CANTIDAD DE GRUPOS EN CLUSTERING?
+      2.4.1 COEFICIENTE DE SILOHUETTE
+      2.4.2 INDICE DE DUNN
+      2.4.3 SUMA DE CUADRADOS WITHIN (METODO CODO)
+  2.5 INDICES DE COMPARACION
+      2.5.1 INDICE DE RAND
+      2.5.2 INDICE DE JACCARD
+  2.6 TENDENCIA EN CLUSTERING, CLUSTERING ESPECTRAL, FUZZY CLUSTERING
+  2.7 TEOREMA DE IMPOSIBILIDAD DE KLEINBERG Y LA MALDICION DE LA DIMENSIONALIDAD
+
+3 - CLASIFICACION: Seccion 4 libro Springer
+  3.0 CONCEPTO DE CLASIFICACION Y REGLA OPTIMA DE BAYES (Porque no se puede usar Bayes?)
+  3.1 KNN Vecinos Mas Cercanos [Seccion 4.7 LAB Libro Springer]
+      3.1.1 Eleccion de K
+      3.1.2 Cross Validation
+      3.1.3 Error de entrenamiento y Error de Testeo
+      3.1.4 Matriz de confusion
+  3.2 REGRESION LOGISTICA [Seccion 4.3 Libro Springer]
+      3.2.1 Definicion de Modelo Logistico
+      3.2.2 Metodo de Maxima Verosimilitud
+  3.3 ANALISIS DISCRIMINANTE LINEAL (LDA) [Seccion 4.4.1 Libro Springer]
+      3.3.1 Cuando puedo aplicar LDA a mis datos?
+  3.4 ANALISIS DISCRIMINANTE CUADRATICO (QDA) [Seccion 4.4.3 Libro Springer]
+      3.4.1 Fronteras Cuadraticas
+  3.5 NAIVE BAYES [Seccion 4.4.4 Libro Springer]
+      3.5.1 Repaso regla de BAYES   
+ ---> COMPARACION DE METODOS: KNN, REGRESION LOGISTICA, LDA, QDA, NAIVE BAYES [Seccion 4.5 Libro Springer]
+
+  3.6 SUPPORT VECTOR MACHINES [Seccion 9 Libro Springer]
+  3.7 CART (Arboles de Decision) [Seccion 8 Libro Springer]
+  3.8 RANDOM FOREST [Seccion 8.2.2 Libro Springer]
+  3.9 Metodos Combinados, Metodos de Agregacion (Ej: Boosting)
+  
+4 - ARBOLES DE CLASIFICACION Y REGRESION (CART)
+  4.1
+  4.2
+  4.3
+  4.4
+  4.5
+  4.6
+5 -  METODOS DE AGREGACION DE MODELOS
