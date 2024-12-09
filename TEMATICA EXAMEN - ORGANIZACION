@@ -42,18 +42,13 @@ LISTA DE TEMAS PARA EXAMEN - ORGANIZACION ESTUDIO
   3.5 NAIVE BAYES [Seccion 4.4.4 Libro Tibshirani]
       3.5.1 Repaso regla de BAYES   
  ---> COMPARACION DE METODOS: KNN, REGRESION LOGISTICA, LDA, QDA, NAIVE BAYES [Seccion 4.5 Libro Tibshirani]
- ---> CURVA AUC Y ROC
+ ---> CURVA AUC Y GRAFICO ROC
 
   3.6 SUPPORT VECTOR MACHINES [Seccion 9 Libro Tibshirani]
   3.7 CART (Arboles de Decision) [Seccion 8 Libro Tibshirani]
   3.8 RANDOM FOREST [Seccion 8.2.2 Libro Tibshirani]
   3.9 Metodos Combinados, Metodos de Agregacion (Ej: Boosting)
-  
+
+  ---> VENTAJAS Y DESVENTAJAS EN CADA METODO (AL MENOS SABER 1)
 4 - ARBOLES DE CLASIFICACION Y REGRESION (CART)
-  4.1
-  4.2
-  4.3
-  4.4
-  4.5
-  4.6
 5 -  METODOS DE AGREGACION DE MODELOS
